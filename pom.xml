@@ -14,6 +14,7 @@
 <!--    <module>utppi-common</module>-->
 <!--    <module>utppi-email</module>-->
 <!--    <module>utppi-quiz</module>-->
+    <module>collection-framework</module>
   </modules>
 
 </project>
