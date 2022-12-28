@@ -1,4 +1,4 @@
-package collection.set.enumset;
+package collectionsframework.collections.set.enumset;
 
 import java.util.EnumSet;
 import java.util.Iterator;

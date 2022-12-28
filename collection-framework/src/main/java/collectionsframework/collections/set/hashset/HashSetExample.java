@@ -1,4 +1,4 @@
-package collection.set.hashset;
+package collectionsframework.collections.set.hashset;
 
 import java.util.HashSet;
 import java.util.Iterator;
