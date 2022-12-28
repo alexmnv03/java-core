@@ -3,6 +3,9 @@ package collection.list.arraylist;
 import java.util.Arrays;
 import java.util.List;
 
+/**
+ * Преобразование списка в массив
+ */
 public class ArrayListToArrayExample {
 
     // Java-программа для перебора списка
@@ -10,7 +13,6 @@ public class ArrayListToArrayExample {
     {
         List<String> list = Arrays.asList("C", "C++", "Java");
 
-        // Преобразование списка в массив
         String[] array = null;
 
         // 1. Использование метода `List.toArray(T[])`
