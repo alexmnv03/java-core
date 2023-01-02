@@ -18,10 +18,11 @@
 
 CopyOnWriteArrayList реализует алгоритм CopyOnWrite и является потокобезопасным аналогом ArrayList. 
 
+CopyOnWriteArraySet выполнен на основе CopyOnWriteArrayList с реализацией интерфейса Set.
 
 ConcurrentHashMap<K, V> реализует (implements) интерфейс java.util.concurrent.ConcurrentMap и отличается от HashMap и Hashtable внутренней структурой хранения пар key-value. СoncurrentHashMap использует несколько сегментов, и данный класс можно рассматривать как группу HashMap’ов. По умолчанию количество сегментов равно 16. Доступ к данным определяется по сегментам, а не по объекту. Итераторы данного класса фиксируют структуру данных на момент начала его использования. Описание ConcurrentHashMap<K, V> с примером представлено здесь.
 
-CopyOnWriteArraySet выполнен на основе CopyOnWriteArrayList с реализацией интерфейса Set. Описание CopyOnWriteArraySet с примером представлено здесь.
+
 
 ConcurrentNavigableMap расширяет возможности интерфейса NavigableMap для использования в многопоточных приложениях; итераторы класса декларируются как потокобезопасные и не вызывают ConcurrentModificationException.
 
