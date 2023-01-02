@@ -1,5 +1,7 @@
 # Структура пакета java.util.concurrent
 
+https://java-online.ru/concurrent.xhtml
+
 Классы и интерфейсы пакета java.util.concurrent объедининены в несколько групп по функциональному
 признаку, как это представлено в следующей таблице :
 
