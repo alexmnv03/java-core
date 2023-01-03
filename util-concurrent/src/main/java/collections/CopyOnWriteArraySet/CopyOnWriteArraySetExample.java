@@ -1,4 +1,4 @@
-package utilconcurrent.collections.CopyOnWriteArraySet;
+package collections.CopyOnWriteArraySet;
 
 import java.util.Iterator;
 import java.util.Set;

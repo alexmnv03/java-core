@@ -1,4 +1,4 @@
-package utilconcurrent.queues.nonBlocking.ConcurrentLinkedDeque;
+package queues.nonBlocking.ConcurrentLinkedDeque;
 
 import java.util.concurrent.ConcurrentLinkedDeque;
 
