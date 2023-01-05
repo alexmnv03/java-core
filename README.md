@@ -11,11 +11,10 @@
    многопоточного кода, обеспечивающего не только хорошую производительность, но и защиту данных 
    приложения, не является тривиальной задачей. Именно для таких целей предназначен пакет  java.
    util.concurrent. Здесь рассматриваются коллекции, которые предлагает данный пакет.
-3. [In progress](https://github.com/alexmnv03/java-core/tree/develop/) - progress
-4. [In progress](https://github.com/alexmnv03/java-core/tree/develop/) - progress
-5. [In progress](https://github.com/alexmnv03/java-core/tree/develop/) - progress
-6. [In progress](https://github.com/alexmnv03/java-core/tree/develop/) - progress
+3. [In progress](https://github.com/) - progress
+4. [In progress](https://github.com//) - progress
+5. [In progress](https://github.com) - progress
+6. [In progress](https://github.com/) - progress
 7. [In progress](https://github.com/alexmnv03/java-core/tree/develop/) - progress
-
 
 
