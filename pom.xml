@@ -16,6 +16,8 @@
 <!--    <module>utppi-quiz</module>-->
     <module>collection-framework</module>
     <module>util-concurrent</module>
+    <module>multi-threading</module>
+    <module>java-oop</module>
   </modules>
 
 </project>

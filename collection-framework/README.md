@@ -155,4 +155,17 @@ O(1) - операция происходит в одно действие
 O(n) - операция происходит в n действий, где n – это индекс элемента, который нам нужен. Это линейная зависимость
 O(log(n))  - логарифмическая сложность означает, что время увеличивается линейно, когда n растет экспоненциально. Таким образом, если для вычисления 10 элементов требуется    1 секунда, то для вычисления 100 элементов потребуется 2 секунды, и так далее.
 
+Содержание
+1. [collections](https://github.com/alexmnv03/java-core/tree/develop/collection-framework/src/main/java/collectionsframework/collections)
+   - [Iterator](https://github.com/alexmnv03/java-core/tree/develop/collection-framework/src
+     /main/java/collectionsframework/collections/Iterator) 
+   - collections [In progress](https://github.com/alexmnv03/java-core/tree/develop/)
+   1.3. collections [In progress](https://github.com/alexmnv03/java-core/tree/develop/)
+   1.4. collections [In progress](https://github.com/alexmnv03/java-core/tree/develop/)
+   1.5. collections [In progress](https://github.com/alexmnv03/java-core/tree/develop/)
+
+2. map collections [In progress](https://github.com/alexmnv03/java-core/tree/develop/)
+
+collections [In progress](https://github.com/alexmnv03/java-core/tree/develop/)
+
 
