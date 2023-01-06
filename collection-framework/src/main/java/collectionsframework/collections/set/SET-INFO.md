@@ -17,3 +17,9 @@ Set это неупорядоченный набор, и не позволяет
 - LinkedHashSet будет хранить элементы в порядке добавления, но зато работает медленнее.
 - TreeSet хранит элементы отсортированными.
 
+
+## Содержание
+ - [enumset](https://github.com/alexmnv03/java-core/tree/develop/collection-framework/src/main/java/collectionsframework/collections/set/enumset)
+ - [hashset](https://github.com/alexmnv03/java-core/tree/develop/collection-framework/src/main/java/collectionsframework/collections/set/hashset)
+ - [linkedhashset](https://github.com/alexmnv03/java-core/tree/develop/collection-framework/src/main/java/collectionsframework/collections/set/linkedhashset)
+ - [treeset](https://github.com/alexmnv03/java-core/tree/develop/collection-framework/src/main/java/collectionsframework/collections/set/treeset)

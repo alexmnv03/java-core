@@ -25,3 +25,7 @@
 реализации типа LinkedList не запрещают вставку null. Даже в реализациях, которые допускают это, 
 null не должен быть вставлен в Queue, поскольку null также используется в качестве специального  
 возвращаемого значения методом poll, чтобы указать, что очередь не содержит элементов.
+
+## Содержание
+ - [ArrayDeque](https://github.com/alexmnv03/java-core/tree/develop/collection-framework/src/main/java/collectionsframework/collections/queues/deque/ArrayDeque)
+ - [priorityqueue](https://github.com/alexmnv03/java-core/tree/develop/collection-framework/src/main/java/collectionsframework/collections/queues/queue/priorityqueue)
