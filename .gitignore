@@ -23,8 +23,8 @@ dependency-reduced-pom.xml
 buildNumber.properties
 .mvn/timing.properties
 .mvn/wrapper/maven-wrapper.jar
-utppi-auth/mvnw
 mvnw.cmd
+.mvn/wrapper/
 
 ##############################
 ## Gradle
